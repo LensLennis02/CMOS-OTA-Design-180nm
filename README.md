@@ -42,6 +42,11 @@ The amplifier is designed to operate with a **1V supply voltage** and is biased 
 ---
 
 ## 📂 Repository Contents
-* `ANALOG_VLSI_project_Demarchi_Lena.pdf`: Full technical report including hand calculations, simulation plots (Bode, THD, PSRR, CMRR), and layout snapshots.
+> [!IMPORTANT]
+> **Full Report Access:** Due to the detailed nature of the design and EDA tool configurations, the full PDF report is kept in a restricted repository. 
+> 
+> **To request access for recruitment or review purposes:**
+> 1. Contact me via **LinkedIn**: [lorenzo-lena-92523b311](https://www.linkedin.com/in/lorenzo-lena-92523b311)
+> 2. Or send an **Email**: Lori.le2002@gmail.com
 
 > **Note:** Schematic and layout database files are not included due to confidentiality and NDA restrictions.
