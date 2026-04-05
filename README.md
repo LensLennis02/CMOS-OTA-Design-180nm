@@ -29,11 +29,14 @@ The amplifier is designed to operate with a **1V supply voltage** and is biased 
 
 ## 🖼️ Visual Results
 
+**Final Layout (GDSII Ready)**
+![Final Layout](https://raw.githubusercontent.com/LensLennis02/CMOS-OTA-Design-180nm/main/Total_layout.png)
 
-**Final Layout (GDSII Ready)** ![TITOLO_IMMAGINE_LAYOUT][(https://github.com/LensLennis02/CMOS-OTA-Design-180nm/blob/main/Total_layout.png)]
+**Stability Analysis (Bode Plot)**
+![Bode Plot](https://raw.githubusercontent.com/LensLennis02/CMOS-OTA-Design-180nm/main/Bode%20both.png)
 
-**Stability Analysis (Bode Plot)** ![TITOLO_IMMAGINE_BODE][https://github.com/LensLennis02/CMOS-OTA-Design-180nm/blob/main/Bode%20both.png]
-**Total System Schematic** ![TITOLO_IMMAGINE_SCHEMATIC][https://github.com/LensLennis02/CMOS-OTA-Design-180nm/blob/main/Total%20scheme.png]
+**Total System Schematic**
+![Total System Schematic](https://raw.githubusercontent.com/LensLennis02/CMOS-OTA-Design-180nm/main/Total%20scheme.png)
 
 
 ---
